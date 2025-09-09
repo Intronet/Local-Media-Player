@@ -1,0 +1,5 @@
+{
+  "name": "Local Media Player",
+  "description": "A modern, YouTube-style local audio player that organizes your music files. It features an audio visualizer and a dynamic playlist.",
+  "requestFramePermissions": []
+}
